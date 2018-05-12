@@ -1,0 +1,31 @@
+_repo: History-of-the-Zulu-War_46166
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46166-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wilmot, Alexander
+    aliases:
+    - Wilmot, count (Alexander)
+    - Wilmot, A. (Alexander)
+    birthdate: 1836
+    deathdate: 1924
+    gutenberg_agent_id: '43642'
+    url: http://www.gutenberg.org/2009/agents/43642
+description: ''
+gutenberg_issued: '2014-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46166'
+  lccn: '2002403134'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zulu War, 1879'
+- !lcsh 'Zululand (South Africa) -- History -- To 1879'
+- !lcc 'DT'
+title: History of the Zulu War
+url: http://www.gutenberg.org/ebooks/46166
